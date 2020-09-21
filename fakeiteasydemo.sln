@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fakeiteasydemo", "fakeiteasydemo\fakeiteasydemo.csproj", "{220C879D-9356-4840-9996-3C1D1FCBF935}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fakeiteasydemo", "fakeiteasydemo\fakeiteasydemo.csproj", "{220C879D-9356-4840-9996-3C1D1FCBF935}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fakeiteasydemotestcases", "fakeiteasydemotestcases\fakeiteasydemotestcases.csproj", "{CF465111-7E19-4B23-BA52-053B557EB9BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fakeiteasydemotestcases", "fakeiteasydemotestcases\fakeiteasydemotestcases.csproj", "{CF465111-7E19-4B23-BA52-053B557EB9BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeiteasyDemoSpecflowTest", "FakeiteasyDemoSpecflowTest\FakeiteasyDemoSpecflowTest.csproj", "{C33B1CDD-5D2C-4707-8BB8-B45D4A1DE07B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CF465111-7E19-4B23-BA52-053B557EB9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF465111-7E19-4B23-BA52-053B557EB9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF465111-7E19-4B23-BA52-053B557EB9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33B1CDD-5D2C-4707-8BB8-B45D4A1DE07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33B1CDD-5D2C-4707-8BB8-B45D4A1DE07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33B1CDD-5D2C-4707-8BB8-B45D4A1DE07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33B1CDD-5D2C-4707-8BB8-B45D4A1DE07B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
